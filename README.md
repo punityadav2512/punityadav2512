@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punit</h1>
-<h3 align="center">A passionate MEAN STACK developer from India</h3>
+<h3 align="center">A passionate MEAN and MERN STACK developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punityadav2512&label=Profile%20views&color=0e75b6&style=flat" alt="punityadav2512" /> </p>
 
