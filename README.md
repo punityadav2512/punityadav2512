@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/punityadav2512" target="blank"><img src="https://img.shields.io/twitter/follow/punityadav2512?logo=twitter&style=for-the-badge" alt="punityadav2512" /></a> </p>
 
-- 🌱 I’m currently learning **REDUX**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **ANGULAR, REACT, NODE, EXPRESS, MONGODB**
+- 💬 Ask me about **ANGULAR, REACT, REDUX, NODE, EXPRESS, MONGODB, FLUTTER**
 
 - 📫 How to reach me **B520040@iiit-bh.ac.in**
 
